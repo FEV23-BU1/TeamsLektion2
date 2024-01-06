@@ -1,0 +1,2 @@
+- Detta repository innehåller koden för List implementationen, filsökaren och pokemonsökaren
+- Koden för frågorna i början av lektionen hittar du i boken i dokumentet "Lektion 2"
